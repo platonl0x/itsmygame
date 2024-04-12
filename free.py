@@ -1,1 +1,1 @@
-print('pasha idi v ananas i ne budu eto ispravlat ')
+print('RUSLAN IDI V ARBUZ I NE BUDU TEBYA LOMAT')
